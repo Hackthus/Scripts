@@ -1,2 +1,2 @@
 # Scripts
-Scripts Python , Bash et Powershell
+Scripts Python 
